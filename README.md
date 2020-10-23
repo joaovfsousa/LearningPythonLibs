@@ -10,3 +10,5 @@ Python notebooks written while learning some libs
 [Matplotlib](https://www.youtube.com/watch?v=0P7QnIQDBJY&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=5&ab_channel=KeithGalli)
 
 [Plotly](https://plotly.com/python) - recreated the plots from matplotlib notebook using the doc.
+
+[Requests](https://www.youtube.com/watch?v=tb8gHvYlCFs&ab_channel=CoreySchafer)
