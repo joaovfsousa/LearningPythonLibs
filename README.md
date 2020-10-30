@@ -12,3 +12,5 @@ Python notebooks written while learning some libs
 [Plotly](https://plotly.com/python) - recreated the plots from matplotlib notebook using the doc.
 
 [Requests](https://www.youtube.com/watch?v=tb8gHvYlCFs&ab_channel=CoreySchafer)
+
+[SQLite3](https://www.youtube.com/watch?v=2WUo5tD-eIA&ab_channel=EduardoMendes)
