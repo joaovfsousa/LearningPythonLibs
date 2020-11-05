@@ -14,3 +14,9 @@ Python notebooks written while learning some libs
 [Requests](https://www.youtube.com/watch?v=tb8gHvYlCFs&ab_channel=CoreySchafer)
 
 [SQLite3](https://www.youtube.com/watch?v=2WUo5tD-eIA&ab_channel=EduardoMendes)
+
+[Bottle](https://www.youtube.com/watch?v=WZjOOlrbjUA&ab_channel=EduardoMendes)
+
+[SQLAchemyCore](https://www.youtube.com/watch?v=rBIksyGY4_E&t=2146s&ab_channel=EduardoMendes)
+
+[Shutil, os, os.path](https://www.youtube.com/watch?v=8cNpLnH1dsU&ab_channel=EduardoMendes)
