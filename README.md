@@ -1,4 +1,5 @@
 # LearningPythonLibs
+
 Python notebooks written while learning some libs
 
 [Numpy](https://www.youtube.com/watch?v=GB9ByFAIAH4&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=7&ab_channel=KeithGalli)
@@ -20,3 +21,5 @@ Python notebooks written while learning some libs
 [SQLAchemyCore](https://www.youtube.com/watch?v=rBIksyGY4_E&t=2146s&ab_channel=EduardoMendes)
 
 [Shutil, os, os.path](https://www.youtube.com/watch?v=8cNpLnH1dsU&ab_channel=EduardoMendes)
+
+[SQLAchemyORM](https://www.youtube.com/watch?v=UgaybOYMKS0&ab_channel=EduardoMendes)
