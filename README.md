@@ -23,3 +23,5 @@ Python notebooks written while learning some libs
 [Shutil, os, os.path](https://www.youtube.com/watch?v=8cNpLnH1dsU&ab_channel=EduardoMendes)
 
 [SQLAchemyORM](https://www.youtube.com/watch?v=UgaybOYMKS0&ab_channel=EduardoMendes)
+
+[REGEX](https://www.youtube.com/watch?v=AT17Ht87UKI&ab_channel=EduardoMendes)
