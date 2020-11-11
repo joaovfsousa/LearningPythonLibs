@@ -30,3 +30,5 @@ Links to tutorials, docs, lectures:
 ## Collections
 
   * [Deque and Namedtuple](https://www.youtube.com/watch?v=ubCNqPNIx5Q&ab_channel=EduardoMendes)
+
+  * [OrderedDict, DefaultDict and Counter](https://www.youtube.com/watch?v=3NYHjZwhx-M&ab_channel=EduardoMendes)
