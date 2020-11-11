@@ -1,7 +1,6 @@
 # LearningPythonLibs
 
-Python notebooks written while learning some libs
-
+Python notebooks written while learning some libs.
 Links to tutorials, docs, lectures:
 
 [Numpy](https://www.youtube.com/watch?v=GB9ByFAIAH4&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=7&ab_channel=KeithGalli)
@@ -27,3 +26,7 @@ Links to tutorials, docs, lectures:
 [SQLAchemyORM](https://www.youtube.com/watch?v=UgaybOYMKS0&ab_channel=EduardoMendes)
 
 [REGEX](https://www.youtube.com/watch?v=AT17Ht87UKI&ab_channel=EduardoMendes)
+
+## Collections
+
+  * [Deque and Namedtuple](https://www.youtube.com/watch?v=ubCNqPNIx5Q&ab_channel=EduardoMendes)
