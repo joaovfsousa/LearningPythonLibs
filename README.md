@@ -36,3 +36,5 @@ Links to tutorials, docs, lectures:
 * [ChainMap](https://www.youtube.com/watch?v=TF6oIYAOlag&ab_channel=EduardoMendes)
 
 * [User(Dict|List|String)](https://www.youtube.com/watch?v=gCZyrM-V2pY&ab_channel=EduardoMendes)
+
+* [Abstract Base Classes)](https://www.youtube.com/watch?v=YXGrOF1KIKI&ab_channel=EduardoMendes)
