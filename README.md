@@ -38,3 +38,11 @@ Links to tutorials, docs, lectures:
 * [User(Dict|List|String)](https://www.youtube.com/watch?v=gCZyrM-V2pY&ab_channel=EduardoMendes)
 
 * [Abstract Base Classes)](https://www.youtube.com/watch?v=YXGrOF1KIKI&ab_channel=EduardoMendes)
+
+## Dataclasses
+
+* [Intro](https://www.youtube.com/watch?v=1TFwgGE6qzI&ab_channel=EduardoMendes)
+
+* [Dataclasses vs namedtuple](https://www.youtube.com/watch?v=0OYRzId9mnw&ab_channel=EduardoMendes)
+
+* [Importance and usage](https://www.youtube.com/watch?v=5Ht1THdGMjs&ab_channel=EduardoMendes)
